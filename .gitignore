@@ -1,0 +1,16 @@
+# Ignora a pasta gerada pelo build do Next.js
+.next
+
+# Ignora a pasta de dependências
+node_modules
+
+# Arquivos do sistema
+.DS_Store
+
+# Variáveis de ambiente (se usar .env)
+.env
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
